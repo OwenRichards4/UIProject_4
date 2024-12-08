@@ -143,7 +143,7 @@
     <a href="https://www.cincinnatichildrens.org/research">Researchers</a>
     <a href="https://www.cincinnatichildrens.org/search?start=0&site=entire-site">Search</a>
   </ul>
-  <img src="src/assets/childrens-logo-new.png" alt="Cincinnati Children's Logo" style="position: relative; left: 60px;">
+  <img src="https://owenrichards4.github.io/UIProject_4/src/assets/childrens-logo-new.png" alt="Cincinnati Children's Logo" style="position: relative; left: 60px;">
 </header>
 <div class="pre-main">
   <h2 style="color: rgb(196, 88, 136)">Giving Hope to Kids!</h2>
@@ -380,7 +380,7 @@
   {:else if page == "events"}
     <div class="event-pages">
       <h1 style="text-align: center; font-size: 275%; color:{titleColor};">{title}</h1>
-      <img src="src/assets/PC_banner_v2.jpg">
+      <img src="https://owenrichards4.github.io/UIProject_4/src/assets/PC_banner_v2.jpg">
       <div class="flex-info-and-donation">
         <div>
           <section style="display:flex; align-items: center; gap: 10px;">
@@ -413,7 +413,7 @@
       <button style="float: right;">Add Comment</button>
     </div>
     <div class="edit-button" on:click={() => go2editmode()}>
-      <img style="position: relative; display: block; margin: auto; top: 8px;" src="src/assets/edit.png" width=30px>
+      <img style="position: relative; display: block; margin: auto; top: 8px;" src="https://owenrichards4.github.io/UIProject_4/src/assets/edit.png" width=30px>
     </div>
   {/if}
 </main>
@@ -421,7 +421,7 @@
   <main style="position: relative; left: 15%;">
     <div class="event-pages">
       <h1 style="text-align: center; font-size: 275%; color:{titleColor};">{title}</h1>
-      <img src="src/assets/PC_banner_v2.jpg">
+      <img src="https://owenrichards4.github.io/UIProject_4/src/assets/PC_banner_v2.jpg">
       <div class="flex-info-and-donation">
         <div>
           <section style="display:flex; align-items: center; gap: 10px;">
@@ -453,7 +453,7 @@
       <textarea placeholder="Add a comment..."></textarea>
     </div>
     <div class="edit-button" on:click={() => go2editmode()}>
-      <img style="position: relative; display: block; margin: auto; top: 8px;" src="src/assets/edit.png" width=30px>
+      <img style="position: relative; display: block; margin: auto; top: 8px;" src="https://owenrichards4.github.io/UIProject_4/src/assets/edit.png" width=30px>
     </div>
   </main>
   <div class="edit-mode">
@@ -498,19 +498,19 @@
   <h3 style="position: relative; text-align: center; color: rgb(196, 88, 136); font-size: 150%;">Connect with Us</h3>
   <ul>
     <a href="https://www.facebook.com/cincinnatichildrensfans">
-      <img width=25px src="src/assets/facebook.png">
+      <img width=25px src="https://owenrichards4.github.io/UIProject_4/src/assets/facebook.png">
     </a>
     <a href="https://www.instagram.com/cincychildrens/">
-      <img width=25px src="src/assets/instagram.png">
+      <img width=25px src="https://owenrichards4.github.io/UIProject_4/src/assets/instagram.png">
     </a>
     <a href="https://x.com/CincyChildrens">
-      <img width=40px src="src/assets/X.png">
+      <img width=40px src="https://owenrichards4.github.io/UIProject_4/src/assets/X.png">
     </a>
     <a href="https://www.pinterest.com/cincychildrens/">
-      <img width=25px src="src/assets/pinterest.png">
+      <img width=25px src="https://owenrichards4.github.io/UIProject_4/src/assets/pinterest.png">
     </a>
     <a href="https://www.youtube.com/user/CincinnatiChildrens">
-      <img width=55px src="src/assets/youtube.png">
+      <img width=55px src="https://owenrichards4.github.io/UIProject_4/src/assets/youtube.png">
     </a>
     <a href="https://blog.cincinnatichildrens.org/?_gl=1*jm2y2w*_ga*MjAyMTM5MzQ5LjE3MzI4MDc5NjY.*_ga_6ME8JGKTYE*MTczMzY2ODk4NS43LjEuMTczMzY2OTg1NC4wLjAuMA..">Patients and Family Blog</a>
     <a href="https://scienceblog.cincinnatichildrens.org/?_gl=1*jm2y2w*_ga*MjAyMTM5MzQ5LjE3MzI4MDc5NjY.*_ga_6ME8JGKTYE*MTczMzY2ODk4NS43LjEuMTczMzY2OTg1NC4wLjAuMA..">Research Blog</a>
@@ -548,19 +548,19 @@
     </div>
   </div>
   <div class="footer-end">
-    <img src="src/assets/arc-pattern-lower-left.png">
+    <img src="https://owenrichards4.github.io/UIProject_4/src/assets/arc-pattern-lower-left.png">
     <p>
       3333 Burnet Avenue, Cincinnati, Ohio 45229-3026 | 1-513-636-4200 | 1-800-344-2462 <br><br>
       © Cincinnati Children's Hospital Medical Center. All rights reserved. <br><br>
       Cincinnati Children's is a tax-exempt 501(C)(3) nonprofit organization. Your gift is tax-deductible as allowed by law.
     </p>
     <a href="">
-      <img src="src/assets/Badge-ChildrensHospitals-Honor-Roll_Generic-year86.png">
+      <img src="https://owenrichards4.github.io/UIProject_4/src/assets/Badge-ChildrensHospitals-Honor-Roll_Generic-year86.png">
     </a>
     <a href="">
-      <img src="src/assets/bptw.png">
+      <img src="https://owenrichards4.github.io/UIProject_4/src/assets/bptw.png">
     </a>
-    <img src="src/assets/arc-pattern-upper-right.png" style="position: relative; bottom: 200px;">
+    <img src="https://owenrichards4.github.io/UIProject_4/src/assets/arc-pattern-upper-right.png" style="position: relative; bottom: 200px;">
   </div>
 </footer>
 {#if infoShow == true}
@@ -585,7 +585,7 @@
     <li>
       <h4>Want to make some Changs?</h4>
       <section style="display: flex;">
-        <img src="src/assets/edit-button.png">
+        <img src="https://owenrichards4.github.io/UIProject_4/src/assets/edit-button.png">
         <p>Click this button on the bottom right of your event page to start editing!</p>
       </section>
     </li>
